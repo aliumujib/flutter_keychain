@@ -1,7 +1,7 @@
 #import "FlutterKeychainPlugin.h"
 
-static NSString *const KEYCHAIN_SERVICE = @"flutter_keychain";
-static NSString *const CHANNEL_NAME = @"plugin.appmire.be/flutter_keychain";
+static NSString *const KEYCHAIN_SERVICE = @"CircleMedicalPatient";
+static NSString *const CHANNEL_NAME = @"com.circlemedical/cm_storage_plugin";
 
 static NSString *const InvalidParameters = @"Invalid parameter's type";
 
